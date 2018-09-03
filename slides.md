@@ -1250,7 +1250,7 @@ class: center, middle
 
 --
 
-🖥 Get these slides [AT THIS PLACE]
+🖥 Get these slides [ltl.fredrivett.com](https://ltl.fredrivett.com/)
 
 --
 
