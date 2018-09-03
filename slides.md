@@ -1,6 +1,6 @@
 class: center, middle
 
-# Learning To Launch
+# Learning To Launch 🚀
 
 ???
 
@@ -13,6 +13,8 @@ class: center, middle
 .max-size-image[![Learning To Launch book](assets/images/ltlbook.png)]
 
 ## https://LearningToLaunch.co
+
+co-authored w/ [@mikeaag](http://twitter.com/mikeaag) ✍️
 
 ???
 
@@ -27,7 +29,7 @@ class: center, middle
 
 class: center, middle
 
-# TL;DW
+# TL;DW 🙄
 .subheader[Too Long; Didn't Watch]
 
 ???
@@ -37,7 +39,7 @@ This talk is for those who:
 
 This talk is **not** about how to have the perfect launch
 
-It's about how to get better at taking an project from idea to launch
+It's about how to get better at taking a project from idea to launch
 
 ## As we'll come to later: the majority of people fall at this hurdle
 
@@ -45,11 +47,11 @@ It's about how to get better at taking an project from idea to launch
 
 class: center, middle
 
-# "So why should I care?"
+# "So why should I care?" 🤷‍♀️
 
 ---
 
-## Who's that guy?
+## Who am I? 🧔🏻
 
 --
 
@@ -61,31 +63,9 @@ class: center, middle
 
 --
 
-- Next 5 years —> launched 12 projects
-
-???
-
-- One of our projects has 5000 WAU
-- Winner April Fools 2017
-- Earnt over $10k from one of them, and then sold it
+- Next 5 years —> launched 12 projects (incl. a SaaS: UserCompass)
 
 --
-
-- Co-wrote a short, free ebook on our experience and what we learnt: LearningToLaunch.co
-
----
-
-class: center
-
-#### Prev co-founded UserCompass.com
-
-.max-size-image[![User Compass](assets/images/usercompass.gif)]
-
-???
-
-(SaaS for NPS emails via Stripe) [UserCompass.com]
-
----
 
 - Front-end dev by trade
 
@@ -97,14 +77,22 @@ class: center
 
   - Lead front-end at The Peoples Operator, a social good virtual mobile network operator, working directly with Wikipedia co-founder Jimmy Wales
 
---
+???
 
+- One of our projects has 5000 WAU
+- Winner April Fools 2017
+- Earnt over $10k from one of them, and then sold it
+- UserCompass: (SaaS for NPS emails via Stripe) [UserCompass.com]
+
+---
+
+class: center, middle
 
 .full-size-image[![Jimmy Wales](assets/images/jimmywales.webp)]
 
 ---
 
-### Now
+### Now 📅
 
 --
 
@@ -120,7 +108,7 @@ class: center
 
 ---
 
-## Who is this for?
+## Who is this for? 👤
 
 - This talk is for those who want to get better at launching their own side projects
 
@@ -136,6 +124,8 @@ class: center
 
 class: center, middle
 
+### It's a common problem 😕
+
 .full-size-image[![Want to launch stuff tweet poll](assets/images/wanttolaunchtweet.png)]
 
 ???
@@ -146,7 +136,7 @@ class: center, middle
 
 ---
 
-## Why launch your own side projects?
+## Why launch your own side projects? 🤨
 
 ???
 
@@ -166,15 +156,15 @@ We'll go into the why behind a project a bit more later in the talk
 
 ---
 
-## This talk has two parts
+## This talk has 2️⃣ parts
 
 --
 
-- My story 👋
+1️⃣ My story 🙋‍♂️
 
 --
 
-- Lessons learned (how to avoid wasting 5 years like we did) 🤔
+2️⃣ Lessons learned (how to avoid wasting 5 years like we did) 🤔
 
 ---
 
@@ -188,7 +178,7 @@ class: center, middle
 
 class: center, middle
 
-### Designing forum signatures in Photoshop as a teenager
+### Designing forum signatures in Photoshop as a teenager 🎨
 
 ???
 
@@ -233,7 +223,7 @@ class: center, middle
 
 class: center, middle
 
-## "I love it, you're in!"
+## ~ "I love it, you're in!" 🤝
 
 — Mike, 2007
 
@@ -261,7 +251,7 @@ class: center, middle
 
 ---
 
-### Over the next 5 years, continue to dream about big business ideas and work months at a time on many of them. Including:
+### Over the next 5 years, continue to dream about big business ideas and work months at a time on many of them. Including: 👀
 
 --
 
@@ -269,7 +259,7 @@ class: center, middle
 
 --
 
-- PushTimmy: _Push notifications as a service for those without an app_
+- PushToMe: _Push notifications as a service for those without an app_
 
 ???
 
@@ -289,7 +279,7 @@ I still own idrink.coffee and breakdown.repair (despite not drinking much coffee
 
 class: center, middle
 
-### But by early 2014, we had spent another few months on a side project, another one that never came close to launching
+### But by early 2014, we had spent another few months on a side project, another one that never came close to launching 😔
 
 ???
 
@@ -300,6 +290,8 @@ class: center, middle
 class: center, middle
 
 ### "BUT we've got the technical skills to design and code a website, surely we just need to keep trying?"
+
+— us
 
 ???
 
@@ -335,7 +327,11 @@ class: center, middle
 
 class: center, middle
 
+### The Never Ending Project Cycle of Doom
+
 .max-size-image[![NEVER ENDING PROJECT CYCLE OF DOOM](assets/images/cycleofdoom.png)]
+
+— [@acejon](https://twitter.com/acejon) ✍️
 
 ???
 
@@ -366,7 +362,7 @@ My initial reaction was:
 
 class: center, middle
 
-### "Lol we can't even launch one in five years how we gonna launch six in six months?"
+### "Lol we can't even launch one in five years how we gonna launch six in six months?" 🤨
 — me
 
 ???
@@ -397,14 +393,14 @@ class: center, middle
 
 class: center, middle
 
-### "The best investment you can make is in yourself."
+### "The best investment you can make is in yourself." 🏦
 — Warren Buffett
 
 ---
 
 class: center, middle
 
-### "When you look back at yourself six months from today and don't feel embarrassed by your naiveté, there's a problem. That means you're not learning, growing."
+### "When you look back at yourself six months from today and don't feel embarrassed by your naiveté, there's a problem. That means you're not learning, growing." 🤦‍♀️
 — Nathan Bashaw
 
 ???
@@ -492,7 +488,7 @@ class: center, middle
 
 class: center
 
-## HitReply.co [podcast]
+## HitReply.co 🎙
 
 .max-size-image[![Hit Reply](assets/images/hitreply.png)]
 
@@ -505,7 +501,7 @@ class: center
 
 class: center
 
-## RealTimeUsers.bycontrast.co
+## RealTimeUsers.bycontrast.co 1️⃣
 
 .max-size-image[![Realtime Users](assets/images/realtimeusers.png)]
 
@@ -515,7 +511,9 @@ class: center
 
 ---
 
-class: center, middle
+class: center
+
+## RealTimeUsers.bycontrast.co 1️⃣
 
 .max-size-image[![Highscore.money](assets/images/highscoremoney.png)]
 
@@ -528,13 +526,13 @@ class: center, middle
 
 class: center
 
-## ProductHaunt.com 👻
+## MyYear.co 🗓
 
-.max-size-image[![Product Haunt Tweet 1](assets/images/producthaunt1.png)]
+.max-size-image[![My Year](assets/images/myyear.gif)]
 
 ???
 
-- The Product Hunt graveyard
+- A year in review site generator
 
 ---
 
@@ -547,69 +545,6 @@ class: center
 ???
 
 - Roped in at 11pm at night
-
----
-
-class: center
-
-## ProductHaunt.com 👻
-
-.max-size-image[![Product Haunt Tweet 3](assets/images/producthaunt3.png)]
-
-???
-
-- Hacked together that evening, shipped the next morning
-- Finished my bit (logo design, site design, front end build) by 3am
-
----
-
-class: center
-
-## ProductHaunt.com 👻
-
-.max-size-image[![Product Haunt Tweet 4](assets/images/producthaunt4.png)]
-
-???
-
-- Hacked together that evening, shipped the next morning
-- Finished my bit (logo design, site design, front end build) by 3am
-
----
-
-class: center
-
-## ProductHaunt.com 👻
-
-.max-size-image[![Product Haunt Tweet 5](assets/images/producthaunt5.png)]
-
-???
-
-- Hacked together that evening, shipped the next morning
-- Finished my bit (logo design, site design, front end build) by 3am
-
----
-
-class: center
-
-## ProductHaunt.com 👻
-
-.max-size-image[![Product Haunt Tweet 6](assets/images/producthaunt6.png)]
-
-???
-
-- Hacked together that evening, shipped the next morning
-- Finished my bit (logo design, site design, front end build) by 3am
-
----
-
-class: center
-
-## ProductHaunt.com 👻
-
-.max-size-image[![Product Haunt Tweet 7](assets/images/producthaunt7.png)]
-
-???
-
 - Hacked together that evening, shipped the next morning
 - Finished my bit (logo design, site design, front end build) by 3am
 
@@ -630,19 +565,7 @@ class: center
 
 class: center
 
-## MyYear.co
-
-.max-size-image[![My Year](assets/images/myyear.gif)]
-
-???
-
-- A year in review site generator
-
----
-
-class: center
-
-## StoriesAsAService.com
+## StoriesAsAService.com 🤳
 
 .max-size-image[![Stories as a service](assets/images/storiesasaservice.png)]
 
@@ -656,7 +579,9 @@ class: center
 
 ---
 
-class: center, middle
+class: center
+
+## StoriesAsAService.com 🤳
 
 .max-size-image[![April fools tweet](assets/images/aprilfools.png)]
 
@@ -672,7 +597,7 @@ class: center, middle
 
 class: center
 
-## UserCompass.com
+## UserCompass.com 👤
 
 .max-size-image[![User Compass](assets/images/usercompass.gif)]
 
@@ -684,7 +609,7 @@ class: center
 
 class: center
 
-## Bluffball.io
+## Bluffball.io ⚽️
 
 .max-size-image[![Bluffball](assets/images/bluffball.png)]
 
@@ -696,7 +621,7 @@ class: center
 
 class: center
 
-## Bluffball.io
+## Bluffball.io ⚽️
 
 .max-size-image[![The IT Crowd](assets/images/theitcrowd.jpg)]
 
@@ -726,7 +651,11 @@ class: center, middle
 
 class: center, middle
 
+### The Never Ending Project Cycle of Doom
+
 .max-size-image[![NEVER ENDING PROJECT CYCLE OF DOOM](assets/images/cycleofdoom.png)]
+
+— [@acejon](https://twitter.com/acejon) ✍️
 
 ???
 
@@ -806,97 +735,11 @@ Gotta learn the basics first
 
 class: center, middle
 
-## Your users habits are 🔑 too
-
----
-
-### HowsItGo.in
-
---
-
-- Invested over 250 hours
-
---
-
-- Got an initial batch of users
-
---
-
-- Built it for ourselves, but even we didn't use it
-
---
-
-- Fastest death ever ⏱
-
----
-
-### FlashTabs.co
-
---
-
-- Hacked together in a weekend
-
---
-
-- Tidied up next week then shipped
-
---
-
-- 77 hours total time invested (under 1/3 of HowsItGoin)
-
---
-
-- 5000 Weekly Active Users (WAU) as of today
-
-???
-
-- It's broken it's so bad
-
----
-
-class: center, middle
-
-## It worked, because it tapped into an existing habit, opening a new tab 🖥
-
----
-
-class: center, middle
-
-## Find existing habits you can tap into 🚰
-
-???
-
-For our upcoming news app, The Dot, can we hook onto an existing eating breakfast habit and get them to read the news every day with their cereal?
-
----
-
-class: center, middle
-
 ## Underestimate habits at your peril 🙅‍♂️
 
 ---
 
-## Further reading 📚
-
---
-
-- The Power of Habit by Charles Duhigg
-
-???
-
-- Goes into how a habit is formed, how to break bad ones, how to replace with good ones
-
---
-
-- Hooked by Nir Eyal (w/ Ryan Hoover)
-
-???
-
-- More focussed on creating habits in products, and the 4 stages of a habit (Trigger, Action, Variable Reward, Investment)
-
----
-
-## Understand your why: Why do you want to ship stuff? ❓
+## Understand your why: Why do you want to ship stuff? 🤔
 
 ???
 
@@ -943,7 +786,7 @@ class: center, middle
 
 class: center, middle
 
-### “Give Something Valuable Away in Order to Sell Something Related.”
+### “Give Something Valuable Away in Order to Sell Something Related.” 🎁
 — Brian Clark
 
 ???
@@ -963,7 +806,7 @@ class: center, middle
 
 class: center, middle
 
-## "But I don't have time" 🤥
+# "But I don't have time" 🤥
 
 ???
 
@@ -1023,7 +866,7 @@ Here's a few ways to get some ideas:
 
 --
 
-### Your own pain/friction points 🤕
+- Your own pain/friction points 🤕
 
 ???
 
@@ -1033,7 +876,7 @@ FlashTabs was a pain I had, I wanted to use Flashcards to learn, but the leading
 
 --
 
-### Something that makes you laugh 😂
+- Something that makes you laugh 😂
 
 ???
 
@@ -1041,7 +884,7 @@ Bluffball made us laugh, so we made it
 
 --
 
-### Ask others what they want / observe others frustrations 👀
+- Ask others what they want / observe others frustrations 👀
 
 ???
 
@@ -1049,7 +892,7 @@ This is harder, especially when starting out, requires another skillset on top o
 
 --
 
-### Find something that's not very good and make it better ✨
+- Find something that's not very good and make it better ✨
 
 ---
 
@@ -1063,18 +906,6 @@ What's popular now? What are people already talking about? 👂
 - Justin Jackson has a great blog post on this: https://megamaker.co/articles/growth/
 - StoriesAsAService was popular because it captured a running joke. It was just a shoddily thrown together landing page.
 - Tinder could do a side project around Love Island, who would you match with?
-
----
-
-class: center, middle
-
-# Timing is 🔑
-
-???
-
-- Studies were done on what factors most predicted a startup's success. It was timing.
-- Youtube came just when home cameras were good enough, and when internet connection could support video streaming
-  - Try to do YouTube a year or two earlier, it wouldn't have worked
 
 ---
 
@@ -1108,15 +939,15 @@ class: center, middle
 
 class: center, middle
 
-## It's this 🥁
+# Start small 🌱
+
+&nbsp;
 
 ---
 
 class: center, middle
 
 # Start small 🌱
-
---
 
 👉 No, smaller than that 👈
 
@@ -1198,7 +1029,7 @@ class: center, middle
 
 ---
 
-### *and finally...*
+#### *and finally...*
 
 --
 
@@ -1210,19 +1041,19 @@ class: center, middle
 
 --
 
-### heck tell anyone who will listen 📣
+- heck tell anyone who will listen 📣
 
 --
 
-### Tell your mum, tell your cat 🐈
+- Tell your mum, tell your cat 🐈
 
 --
 
-### tweet it into the void 🐦
+- tweet it into the void 🐦
 
 --
 
-### post it on medium ✍️
+- post it on medium ✍️
 
 ???
 
@@ -1231,7 +1062,7 @@ class: center, middle
 
 --
 
-### just don't keep it to yourself 🙊
+- just don't keep it to yourself 🙊
 
 ---
 
@@ -1270,7 +1101,7 @@ class: center, middle
 
 class: center, middle
 
-### "If you are not embarrassed by the first version of your product, you've launched too late."
+### "If you are not embarrassed by the first version of your product, you've launched too late." 😬
 — Reid Hoffman (Founder, LinkedIn)
 
 ???
@@ -1287,7 +1118,7 @@ class: center, middle
 
 class: center, middle
 
-### The 3️⃣ most successful launches I've ever had were three of the smallest
+### The 3️⃣ most "successful" launches I've ever had were three of the smallest
 
 ???
 
@@ -1303,18 +1134,18 @@ class: center, middle
 
 class: center, middle
 
+# "But I can't code" 👩‍💻
+
+---
+
+class: center, middle
+
 ### Product Hunt started as an email list 😸💌
 
 ???
 
 - It was acquired for $20m
 - Constraints inspire creativity
-
----
-
-class: center, middle
-
-# "But I can't code" 👩‍💻
 
 ---
 
@@ -1330,7 +1161,7 @@ class: center, middle
 
 --
 
-- He's teaching how to do that at newco.app
+- He's teaching how to do that at [newco.app](https://www.newco.app/)
 
 
 
@@ -1349,15 +1180,19 @@ class: center, middle
 
 --
 
-### Just wisdom 🧠
+- Just wisdom 🧠
 
 --
 
-### There are exceptions to ~every rule ❌
+- There are exceptions to ~every rule ❌
 
 --
 
-### Chart your own path (don't follow your heroes) 👣
+- Chart your own path (don't follow your heroes) 👣
+
+???
+
+- [Justin Jackson has a good post on this](https://justinjackson.ca/heroes/)
 
 ---
 
@@ -1375,16 +1210,15 @@ class: center, middle
 
 --
 
-### There's nothing like first hand experience 🤲
+- There's nothing like first hand experience 🤲
 
 --
 
-### Go make your own glorious mistakes 🤦‍♂️
+- Go make your own glorious mistakes 🤦‍♂️
 
 --
 
-### _(just try not to waste 5 years like me)_ 😬
-
+- _(just try not to waste 5 years like we did)_ 😬
 
 ???
 
@@ -1394,32 +1228,54 @@ class: center, middle
 
 class: center, middle
 
-### And if you do launch and it's not a breakaway viral success...
+### And if you do launch and it's not a breakaway viral success... 😱
 
 .max-size-image[![Product Hunt launch tweet](assets/images/producthunttweet.png)]
 
 ---
 
-# Rounding up
-
---
-
-- Twitter: @fredrivett [DM's open]
-
---
-
-- The Dot: thedot.news [early access program coming next couple weeks]
-
---
-
-- read the book for free at: LearningToLaunch.co
-
---
-
-- Get these slides [AT THIS PLACE]
-
----
-
-class: center, middle
-
 # Thank you 🙏
+
+--
+
+🐦 Twitter: @fredrivett [DM's open]
+
+--
+
+⚫️ The Dot: thedot.news [early access coming next couple weeks]
+
+--
+
+📙 read the book for free at: [LearningToLaunch.co](https://learningtolaunch.co)
+
+--
+
+🖥 Get these slides [AT THIS PLACE]
+
+--
+
+### Further reading 📚
+
+--
+
+- The Power of Habit by Charles Duhigg
+
+???
+
+- Goes into how a habit is formed, how to break bad ones, how to replace with good ones
+
+--
+
+- Hooked by Nir Eyal (w/ Ryan Hoover)
+
+???
+
+- More focussed on creating habits in products, and the 4 stages of a habit (Trigger, Action, Variable Reward, Investment)
+
+--
+
+- The Lean Startup by Eric Ries
+
+???
+
+The Startup Bible
