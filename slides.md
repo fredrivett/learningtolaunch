@@ -4,7 +4,10 @@ class: center, middle
 
 ???
 
-- Cover my story and what I learnt
+- Thanks Ben!
+- In this talk I'm going to:
+  - Cover my story and what I learnt
+  - In the last 10 years of side projects
 
 ---
 
@@ -63,7 +66,7 @@ class: center, middle
 
 --
 
-- Next 5 years —> launched 12 projects (incl. a SaaS: UserCompass)
+- Next 5 years —> launched 12 projects
 
 --
 
@@ -182,10 +185,10 @@ class: center, middle
 
 ???
 
-[examples]
+# Don't skip ahead, read the following points :)
 
 - During college (16-18y in UK) got to know a guy called Mike
-- He was starting a new web development business with another guy from college
+- He was starting a new web development business with another friend from college
 - Needed a logo
 
 ---
@@ -350,6 +353,17 @@ class: center, middle
 
 class: center, middle
 
+### "What if we stopped trying to build the next Facebook, and instead just focussed on learning to launch?" 🤔
+— Mike
+
+???
+
+## Mike suggested that we do six projects in six months to practice launching
+
+---
+
+class: center, middle
+
 # SixBySix was born 🐣
 
 ???
@@ -406,6 +420,7 @@ class: center, middle
 ???
 
 - We could look back 5 years and see we hadn't learned all that much
+- Had progressed technically but not towards launching/running a business
 - It was time for a change
 
 ---
@@ -437,6 +452,10 @@ class: center
 ## HowsItGo.in [Web app]
 
 .max-size-image[![Hows It Goin](assets/images/howsitgoin.png)]
+
+???
+
+- 250h to launch, 2 weeks overdue
 
 ---
 
