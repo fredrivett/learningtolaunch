@@ -235,7 +235,7 @@ Sidenote: Mike still kind of likes that old logo, which is the basis of me takin
 
 class: center, middle
 
-### ~ Gradually dabbled with front-end code 👨‍💻 ~
+### Gradually dabbled with front-end code 👨‍💻
 
 ---
 
